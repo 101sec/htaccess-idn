@@ -1,0 +1,2 @@
+RewriteCond %{HTTP_REFERER} ^https?://.*xn--.* [NC]
+RewriteCond %{HTTP_REFERER} ^http?://.*xn--.* [NC]
