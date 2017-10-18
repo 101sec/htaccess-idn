@@ -8,6 +8,6 @@ xn--
 `
 `
 
-Therefore, a simple htaccess rule may help Apache servers to block IDN domains. 
+Therefore, a simple htaccess rule may help protect Apache servers by blocking IDN domains and subsites (HTTP & HTTPS) . 
 
 Source: https://unix.stackexchange.com/questions/344628/how-to-block-idn-domain-in-htaccess-file   
